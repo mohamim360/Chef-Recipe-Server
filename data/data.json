@@ -1,0 +1,149 @@
+
+  [
+    {
+      "id": 1,
+      "name": "Jamie Oliver",
+      "picture":"https://cdn.jamieoliver.com/library/images/Jamie-Social.jpg",
+      "likes":10,
+      "years_of_experience": 25,
+      "recipes": [
+        {
+          "name": "Roasted Vegetable Lasagna",
+          "ingredients": ["lasagna noodles", "zucchini", "red bell pepper", "eggplant", "ricotta cheese", "mozzarella cheese", "marinara sauce"],
+          "cooking_method": "1. Roast the vegetables in the oven. 2. Layer the vegetables and cheese between the lasagna noodles. 3. Cover with marinara sauce and bake in the oven until bubbly."
+        },
+        {
+          "name": "Thai Green Curry",
+          "ingredients": ["chicken", "coconut milk", "green curry paste", "carrots", "green beans", "bell pepper"],
+          "cooking_method": "1. Cook the chicken in a pan. 2. Add the vegetables and curry paste. 3. Pour in the coconut milk and simmer until the vegetables are cooked through."
+        },
+        {
+          "name": "Grilled Salmon with Lemon Butter Sauce",
+          "ingredients": ["salmon fillets", "butter", "lemon", "garlic", "salt", "pepper"],
+          "cooking_method": "1. Grill the salmon until cooked through. 2. Melt butter in a saucepan with garlic and lemon juice. 3. Pour the sauce over the salmon and serve."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gordon Ramsay",
+      "picture":"https://cdn.britannica.com/83/127183-050-89DFBDE2/Gordon-Ramsay-British-restaurateur.jpg",
+      "likes":10,
+      "years_of_experience": 30,
+      "recipes": [
+        {
+          "name": "Beef Wellington",
+          "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "prosciutto", "dijon mustard"],
+          "cooking_method": "1. Sear the beef on all sides. 2. Spread mustard on the beef and wrap in prosciutto and mushrooms. 3. Roll out puff pastry and wrap around the beef. 4. Bake in the oven until golden brown."
+        },
+        {
+          "name": "Spicy Chicken Wings",
+          "ingredients": ["chicken wings", "hot sauce", "butter", "garlic powder", "paprika"],
+          "cooking_method": "1. Bake the chicken wings in the oven until crispy. 2. Mix the hot sauce, butter, garlic powder, and paprika in a bowl. 3. Toss the wings in the sauce until coated."
+        },
+        {
+          "name": "Risotto with Wild Mushrooms",
+          "ingredients": ["arborio rice", "chicken broth", "wild mushrooms", "white wine", "parmesan cheese"],
+          "cooking_method": "1. Saute the mushrooms in a pan. 2. Cook the rice in chicken broth and wine. 3. Add the mushrooms and parmesan cheese to the rice and stir until creamy."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ina Garten",
+      "picture":"https://www.washingtonian.com/wp-content/uploads/2018/11/InaFeat.jpg",
+      "likes":10,
+      "years_of_experience": 20,
+      "recipes": [
+        {
+          "name": "Beef Wellington",
+          "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "prosciutto", "dijon mustard"],
+          "cooking_method": "1. Sear the beef on all sides. 2. Spread mustard on the beef and wrap in prosciutto and mushrooms. 3. Roll out puff pastry and wrap around the beef. 4. Bake in the oven until golden brown."
+        },
+        {
+          "name": "Spicy Chicken Wings",
+          "ingredients": ["chicken wings", "hot sauce", "butter", "garlic powder", "paprika"],
+          "cooking_method": "1. Bake the chicken wings in the oven until crispy. 2. Mix the hot sauce, butter, garlic powder, and paprika in a bowl. 3. Toss the wings in the sauce until coated."
+        },
+        {
+          "name": "Risotto with Wild Mushrooms",
+          "ingredients": ["arborio rice", "chicken broth", "wild mushrooms", "white wine", "parmesan cheese"],
+          "cooking_method": "1. Saute the mushrooms in a pan. 2. Cook the rice in chicken broth and wine. 3. Add the mushrooms and parmesan cheese to the rice and stir until creamy."
+        }
+    
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Jamie Oliver",
+      "picture":"https://cdn.jamieoliver.com/library/images/Jamie-Social.jpg",
+      "likes":10,
+      "years_of_experience": 25,
+      "recipes": [
+        {
+          "name": "Roasted Vegetable Lasagna",
+          "ingredients": ["lasagna noodles", "zucchini", "red bell pepper", "eggplant", "ricotta cheese", "mozzarella cheese", "marinara sauce"],
+          "cooking_method": "1. Roast the vegetables in the oven. 2. Layer the vegetables and cheese between the lasagna noodles. 3. Cover with marinara sauce and bake in the oven until bubbly."
+        },
+        {
+          "name": "Thai Green Curry",
+          "ingredients": ["chicken", "coconut milk", "green curry paste", "carrots", "green beans", "bell pepper"],
+          "cooking_method": "1. Cook the chicken in a pan. 2. Add the vegetables and curry paste. 3. Pour in the coconut milk and simmer until the vegetables are cooked through."
+        },
+        {
+          "name": "Grilled Salmon with Lemon Butter Sauce",
+          "ingredients": ["salmon fillets", "butter", "lemon", "garlic", "salt", "pepper"],
+          "cooking_method": "1. Grill the salmon until cooked through. 2. Melt butter in a saucepan with garlic and lemon juice. 3. Pour the sauce over the salmon and serve."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gordon Ramsay",
+      "picture":"https://cdn.britannica.com/83/127183-050-89DFBDE2/Gordon-Ramsay-British-restaurateur.jpg",
+      "likes":10,
+      "years_of_experience": 30,
+      "recipes": [
+        {
+          "name": "Beef Wellington",
+          "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "prosciutto", "dijon mustard"],
+          "cooking_method": "1. Sear the beef on all sides. 2. Spread mustard on the beef and wrap in prosciutto and mushrooms. 3. Roll out puff pastry and wrap around the beef. 4. Bake in the oven until golden brown."
+        },
+        {
+          "name": "Spicy Chicken Wings",
+          "ingredients": ["chicken wings", "hot sauce", "butter", "garlic powder", "paprika"],
+          "cooking_method": "1. Bake the chicken wings in the oven until crispy. 2. Mix the hot sauce, butter, garlic powder, and paprika in a bowl. 3. Toss the wings in the sauce until coated."
+        },
+        {
+          "name": "Risotto with Wild Mushrooms",
+          "ingredients": ["arborio rice", "chicken broth", "wild mushrooms", "white wine", "parmesan cheese"],
+          "cooking_method": "1. Saute the mushrooms in a pan. 2. Cook the rice in chicken broth and wine. 3. Add the mushrooms and parmesan cheese to the rice and stir until creamy."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ina Garten",
+      "picture":"https://www.washingtonian.com/wp-content/uploads/2018/11/InaFeat.jpg",
+      "likes":10,
+      "years_of_experience": 20,
+      "recipes": [
+        {
+          "name": "Beef Wellington",
+          "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "prosciutto", "dijon mustard"],
+          "cooking_method": "1. Sear the beef on all sides. 2. Spread mustard on the beef and wrap in prosciutto and mushrooms. 3. Roll out puff pastry and wrap around the beef. 4. Bake in the oven until golden brown."
+        },
+        {
+          "name": "Spicy Chicken Wings",
+          "ingredients": ["chicken wings", "hot sauce", "butter", "garlic powder", "paprika"],
+          "cooking_method": "1. Bake the chicken wings in the oven until crispy. 2. Mix the hot sauce, butter, garlic powder, and paprika in a bowl. 3. Toss the wings in the sauce until coated."
+        },
+        {
+          "name": "Risotto with Wild Mushrooms",
+          "ingredients": ["arborio rice", "chicken broth", "wild mushrooms", "white wine", "parmesan cheese"],
+          "cooking_method": "1. Saute the mushrooms in a pan. 2. Cook the rice in chicken broth and wine. 3. Add the mushrooms and parmesan cheese to the rice and stir until creamy."
+        }
+    
+      ]
+    }
+    ]
